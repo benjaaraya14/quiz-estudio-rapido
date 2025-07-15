@@ -1,0 +1,29 @@
+[
+    {
+        "texto": "cuanto es 2+2",
+        "opciones": {
+            "A": "4",
+            "B": "6",
+            "C": "8"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "texto": "cuanto es 2+2",
+        "opciones": {
+            "A": "4",
+            "B": "6",
+            "C": "8"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "texto": "cuanto es 2+2",
+        "opciones": {
+            "A": "4",
+            "B": "6",
+            "C": "8"
+        },
+        "respuesta_correcta": "A"
+    }
+]
